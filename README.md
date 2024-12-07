@@ -2,6 +2,8 @@
 
 **Natours** is a website offering adventure tours, featuring a responsive design built using HTML, CSS (SCSS). The project uses older layout techniques like `float`, without relying on Flexbox or CSS Grid. The build process is handled with custom scripts.
 
+### Check out the live demo of the project on [GitHub Pages](https://steppenwolffenrir.github.io/natours/dist/index.html).
+
 ## Description
 
 The project is designed to showcase responsive design using SCSS for styling. All dynamic parts of the site are created using pure CSS, without JavaScript.
